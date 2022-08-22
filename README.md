@@ -7,7 +7,7 @@
 
 ## 参照データ
 
-- [Station Number / 地点番号オープンデータ](https://code4fukui.github.io/jma_station/jma_station_active.csv) (([https://code4fukui.github.io/jma_station/jma_station_active.csv](https://code4fukui.github.io/jma_station/jma_station_active.csv)) [jma_station](https://github.com/code4fukui/jma_station)
+- [Station Number / 地点番号オープンデータ](https://code4fukui.github.io/jma_station/jma_station_active.csv) ([https://code4fukui.github.io/jma_station/jma_station_active.csv](https://code4fukui.github.io/jma_station/jma_station_active.csv)) [jma_station](https://github.com/code4fukui/jma_station)
 
 ## 自動更新設定
 
