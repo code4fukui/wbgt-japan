@@ -3,6 +3,7 @@
 ## WBGT予測データ
 
 - [最新のWBGT予測データ 毎時40分更新](data/yohou_data.csv) [https://code4fukui.github.io/wbgt-japan/data/yohou_data.csv](https://code4fukui.github.io/wbgt-japan/data/yohou_data.csv)
+- [WBGT予測データの推移](data/yohou)
 
 ## 自動更新設定
 
