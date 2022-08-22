@@ -5,6 +5,10 @@
 - [最新のWBGT予測データ 毎時40分更新](data/yohou_data.csv) （[https://code4fukui.github.io/wbgt-japan/data/yohou_data.csv](https://code4fukui.github.io/wbgt-japan/data/yohou_data.csv))
 - [WBGT予測データの推移](data/yohou)
 
+## 参照データ
+
+- [Station Number / 地点番号オープンデータ](https://code4fukui.github.io/jma_station/jma_station_active.csv) ([https://code4fukui.github.io/jma_station/jma_station_active.csv](https://code4fukui.github.io/jma_station/jma_station_active.csv)) [jma_station](https://github.com/code4fukui/jma_station)
+
 ## 自動更新設定
 
 毎時40分に実行
