@@ -9,6 +9,14 @@
 
 - [Station Number / 地点番号オープンデータ](https://github.com/code4fukui/jma_station/blob/main/jma_station_active.csv)  ([https://code4fukui.github.io/jma_station/jma_station_active.csv](https://code4fukui.github.io/jma_station/jma_station_active.csv)) [jma_station](https://github.com/code4fukui/jma_station)
 
+## 実況値取得ライブラリ
+
+- [getWBGT.js](getWBGT.js) 地点番号を渡す
+```JavaScript
+import { getWBGT } from "https://code4fukui.github.io/wbgt-japan/getWBGT.js";
+console.log(await getWBGT(57066));
+```
+
 ## 自動更新設定
 
 毎時40分に実行
