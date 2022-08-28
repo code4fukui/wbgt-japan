@@ -11,7 +11,7 @@
 
 ## 実況値取得ライブラリ
 
-- [getWBGT.js](getWBGT.js) 地点番号を渡す
+- [getWBGT.js](getWBGT.js) 地点番号を渡すと最新実況値が反る
 ```JavaScript
 import { getWBGT } from "https://code4fukui.github.io/wbgt-japan/getWBGT.js";
 console.log(await getWBGT(57066));
